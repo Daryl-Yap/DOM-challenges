@@ -1,0 +1,64 @@
+.one {
+  height: 33vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.snack-button {
+  padding: 20px;
+}
+
+.two {
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.coin {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: silver;
+}
+
+.bank {
+  display: flex;
+}
+
+.penny {
+  background-color: burlywood;
+  width: 55px;
+  height: 55px;
+}
+
+.nickel {
+  width: 75px;
+  height: 75px;
+}
+
+.dime {
+  width: 45px;
+  height: 45px;
+}
+
+.quarter {
+  width: 90px;
+  height: 90px;
+}
+
+.three {
+  height: 33vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.three p {
+  padding: 15px;
+  color: white;
+  background-color: gray;
+  border-radius: 10px;
+}
